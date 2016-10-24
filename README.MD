@@ -14,3 +14,7 @@ This utility will extract SIFT features from JPG images (usually keyframes from 
 
 The expected path to both input video keyframes and output SIFT feature files is: 
 ./keyframes/behaviour_class_label/individual_video_directory/keyframes/
+
+Dependencies: 
+
+Usage: 
