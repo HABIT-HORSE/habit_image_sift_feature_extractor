@@ -18,3 +18,6 @@ The expected path to both input video keyframes and output SIFT feature files is
 Dependencies: 
 
 Usage: 
+
+Known issues:
+Extractor seems to break with images over approximately 500 KB.
